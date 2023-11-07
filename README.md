@@ -4,13 +4,16 @@ Project Objective
 The goal of this project is to generate an annual sales report for the year 2022 for the Allen Solly Store. This report aims to provide valuable insights to the store owner, enabling them to better understand their customer base and devise strategies for boosting sales in the year 2023.
 
 Sales Analysis
+
 The analysis process involved the following key steps:
 
 Data Cleaning: Raw sales data was cleaned to ensure accuracy and consistency.
 Data Analysis: Utilized Excel formulas to perform in-depth data analysis.
 Summarization: Created pivot tables to summarize the sales data effectively.
 Dynamic Dashboard: Developed an interactive dashboard representing 12 months of sales data.
+
 Conclusion
+
 The analysis revealed several insights crucial for improving sales at the Allen Solly Store:
 
 Target Audience: Focusing on women customers in the age group of 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh could yield significant sales growth.
